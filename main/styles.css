@@ -1,0 +1,74 @@
+* { margin:0; padding:0; box-sizing:border-box; } /*Global reset*/
+
+@font-face {
+    font-family: 'NameFont'; /*a name to be used later*/
+    src: url('fonts/coolvetica.ttf'); /*URL to font*/
+}
+@font-face {
+    font-family: 'LinkFont'; /*a name to be used later*/
+    src: url('fonts/Comfortaa.ttf'); /*URL to font*/
+}
+
+h1 {
+  font-family: NameFont;
+  color: rgb(255,255,255);
+  font-size: 50px;
+  padding-bottom: 0px;
+}
+
+#container {
+  margin-left: 6em;
+  margin-right: 6em;
+  background: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+#tier1 {
+  background: #cec5b0;
+  display: flex;
+  width: 100%;
+  height: 200px;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#tier2 {
+  height: 750px;
+  width: 100%;
+  background: #cec5b0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 100px;
+}
+a {
+  color: black;
+  font-family: LinkFont;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+#dylan {
+  color: black;
+  font-size: 80px;
+}
+#dylan:hover {
+  color: white;
+}
+
+#goodman {
+  color: black;
+  font-size: 80px;
+}
+#goodman:hover {
+  color: white;
+}
