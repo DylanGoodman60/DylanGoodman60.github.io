@@ -44,6 +44,10 @@ img {
   animation: fade-in 3s;
 }
 
+img:hover {
+    filter: brightness(50%);
+}
+
 li:last-child {
     flex-grow: 10;
 }
