@@ -12,8 +12,8 @@
 h1 {
   font-family: NameFont;
   color: rgb(255,255,255);
-  font-size: 50px;
   padding-bottom: 0px;
+  animation: fade-in 3s;
 }
 
 #container {
@@ -27,7 +27,7 @@ h1 {
   align-items: flex-start;
 }
 
-#tier1 {
+#menu {
   background: #cec5b0;
   display: flex;
   width: 100%;
@@ -37,7 +37,7 @@ h1 {
   align-items: center;
 }
 
-#tier2 {
+#name_display {
   height: 750px;
   width: 100%;
   background: #cec5b0;
@@ -46,6 +46,23 @@ h1 {
   justify-content: flex-start;
   align-items: flex-start;
   padding-left: 100px;
+}
+
+#books_container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+}
+
+#book_display {
+    height: 750px;
+    width: 100%;
+    background: #cec5b0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 100px;
 }
 a {
   color: black;
@@ -71,4 +88,9 @@ a:hover {
 }
 #goodman:hover {
   color: white;
+}
+
+@keyframes fade-in {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
 }
