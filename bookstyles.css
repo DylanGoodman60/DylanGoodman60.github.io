@@ -27,6 +27,7 @@ body {
 ul {
   display: flex;
   flex-wrap: wrap;
+  list-style-type: none;
 }
 
 li {
@@ -40,9 +41,14 @@ img {
   min-width: 100%;
   object-fit: cover;
   vertical-align: bottom;
+  animation: fade-in 3s;
 }
 
 li:last-child {
     flex-grow: 10;
 }
+
+@keyframes fade-in {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
 }
