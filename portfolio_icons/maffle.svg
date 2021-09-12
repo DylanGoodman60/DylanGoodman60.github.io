@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with love in Wisconsin, USA: www.codezebra.com | © 1992-2019 Code Zebra, Inc. All Rights Reserved.-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 751 751" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Artboard1" transform="matrix(0.497347,0,0,0.497347,31.5628,-556.256)">
+        <rect x="-63.462" y="1118.45" width="1509.23" height="1509.23" style="fill:none;"/>
+        <g transform="matrix(0.981224,0,0,0.981224,40.6638,45.7179)">
+            <path d="M10.309,1857.74C10.309,1491.86 306.911,1195.26 672.788,1195.26C1038.67,1195.26 1335.27,1491.86 1335.27,1857.74C1335.27,2223.62 1038.67,2520.22 672.788,2520.22C306.911,2520.22 10.309,2223.62 10.309,1857.74" style="fill:url(#_Radial1);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(0.981224,0,0,0.981224,40.6638,45.7179)">
+            <path d="M10.309,1857.74C10.309,1491.86 306.911,1195.26 672.788,1195.26C1038.67,1195.26 1335.27,1491.86 1335.27,1857.74C1335.27,2223.62 1038.67,2520.22 672.788,2520.22C306.911,2520.22 10.309,2223.62 10.309,1857.74" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:40.98px;"/>
+        </g>
+        <g transform="matrix(0.981224,0,0,0.981224,40.6638,45.7179)">
+            <path d="M413.448,1448.13L265.611,1448.13L265.611,2267.35L394.495,2267.35L394.495,1638.39L630.017,1954.44L630.017,1738.75L413.448,1448.13ZM715.561,1311.46L630.019,1311.46L630.019,2441.84L715.561,2441.84L715.561,1311.46ZM1079.97,1448.13L932.131,1448.13L715.561,1738.75L715.561,1954.44L951.083,1638.39L951.083,2267.35L1079.97,2267.35L1079.97,1448.13Z" style="filter:url(#shadow);"/>
+        </g>
+        <g transform="matrix(0.463128,0,0,0.463128,421.489,1604.02)">
+            <text x="1269.72px" y="1376.88px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:86.01px;fill:rgb(83,83,83);">TM</text>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(585.788,-326.823,326.823,585.788,672.789,1857.74)"><stop offset="0" style="stop-color:rgb(255,0,228);stop-opacity:1"/><stop offset="0.6" style="stop-color:rgb(210,45,188);stop-opacity:1"/><stop offset="0.81" style="stop-color:rgb(107,148,97);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,255,3);stop-opacity:1"/></radialGradient>
+        <filter id="shadow">
+            <feDropShadow dx="20" dy="20" stdDeviation="25" flood-opacity="0.55"/>
+        </filter>
+    </defs>
+</svg>
