@@ -92,6 +92,11 @@ p {
   font-family: LinkFont;
 }
 
+img {
+  filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
+  border-radius: 50%;
+}
+
 #books_container {
       display: flex;
       flex-wrap: wrap;
@@ -139,6 +144,10 @@ a:hover {
 }
 #goodman:hover {
   color: white;
+}
+
+#keyboard {
+  padding-top: 20px;
 }
 
 @keyframes fade-in {
