@@ -150,6 +150,11 @@ a:hover {
   padding-top: 20px;
 }
 
+#cal_image {
+  padding-top: 20px;
+  border-radius: 25%;
+}
+
 @keyframes fade-in {
     from {opacity: 0%;}
     to {opacity: 100%;}
