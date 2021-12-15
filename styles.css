@@ -26,6 +26,14 @@ h2 {
   letter-spacing: 2px;
 }
 
+h3 {
+  color:rgb(48, 48, 48);
+  font-family: NameFont;
+  font-style: italic;
+  font-size: 24px;
+  opacity: 80%;
+}
+
 h2:hover {
   color: white;
 }
