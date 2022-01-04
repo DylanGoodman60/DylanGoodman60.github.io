@@ -27,11 +27,13 @@ h2 {
 }
 
 h3 {
-  color:rgb(48, 48, 48);
+  color:rgb(32, 32, 32);
   font-family: NameFont;
   font-style: italic;
   font-size: 24px;
   opacity: 80%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 h2:hover {
@@ -94,8 +96,8 @@ h2:hover {
 
 p {
   padding-top: 60px;
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left: 20%;
+  padding-right: 20%;
   padding-bottom: 60px;
   font-family: LinkFont;
 }
@@ -156,6 +158,10 @@ a:hover {
 
 #keyboard {
   padding-top: 20px;
+}
+
+#moxi {
+  filter: none;
 }
 
 #cal_image {
